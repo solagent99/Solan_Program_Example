@@ -277,5 +277,4 @@ Use a data source for offchain data (called an Oracle) to perform activities onc
 [anchor](./oracles/pyth/anchor) [seahorse](./oracles/pyth/seahorse)
 
 </details>
-
 ---
